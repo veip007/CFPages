@@ -132,3 +132,11 @@ The path `/uuid your seetting` to get the clash config and vless:// link.
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=3Kmfi6HP/EDtunnel&type=Date" />
   </picture>
 </a>
+
+
+1.fork本项目
+2.在Workers 和 Pages 上个创建```Pages```程序，链接到GitHub
+3.选择本项目并链接
+4.在页面上添加变量```UUID```  值自己生成    其它不用修改
+5.点击部署。
+6.成功后点击链接```XXXX.pages.dev/UUID```即为订阅页面。可自行选择方式
